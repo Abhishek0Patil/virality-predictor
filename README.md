@@ -114,20 +114,20 @@ The final model demonstrates a strong ability to forecast the general shape and 
 ## Project Structure
 
 virality-predictor/
-├── app/
-│ ├── assets/
-│ │ └── fallback_chatgpt.png # Static image for the app
-│ └── app.py # The Streamlit application script
-├── data/ # Stores raw Google Trends data (.csv files)
-├── models/
-│ └── virality_predictor_geo_v2_regularized.pkl # The final trained model
-├── notebooks/
-│ ├── 01_data_acquisition.ipynb # Fetches data from Google Trends
-│ ├── 02_feature_engineering.ipynb # (Logic now integrated into training script)
-│ └── 03_model_training.ipynb # Full pipeline: features, training, evaluation
-├── .gitignore
-├── README.md # You are here!
-└── requirements.txt # Project dependencies
+ - app/
+   - assets/
+     - fallback_chatgpt.png # Static image for the app
+   - app.py # The Streamlit application script
+ - data/ # Stores raw Google Trends data (.csv files)
+ - models/
+   - virality_predictor_geo_v2_regularized.pkl # The final trained model
+ - notebooks/
+   - 01_data_acquisition.ipynb # Fetches data from Google Trends
+   - 02_feature_engineering.ipynb # (Logic now integrated into training script)
+   - 03_model_training.ipynb # Full pipeline: features, training, evaluation
+ - .gitignore
+ - README.md # You are here!
+ - requirements.txt # Project dependencies
 
 
 
