@@ -1,6 +1,6 @@
 # 🔮 The Virality Predictor: A Trend Lifecycle Forecasting Project
 
-![Streamlit App Demo](https://img.shields.io/badge/Streamlit-App%20Hosted-brightgreen?style=for-the-badge&logo=streamlit)
+![Streamlit App Demo]([https://img.shields.io/badge/virality-predictor-5swhoynzhu78i6xk7qjtmv.streamlit.app/))
 ![Python Version](https://img.shields.io/badge/Python-3.9+-blue?style=for-the-badge&logo=python)
 ![Maintained](https://img.shields.io/badge/Maintained%3F-Yes-green.svg?style=for-the-badge)
 
