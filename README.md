@@ -7,7 +7,7 @@
 A comprehensive data science project that analyzes the initial "DNA" of a new trend on Google Trends to forecast its popularity over the next 28 days. The project culminates in a fully interactive web application built with Streamlit.
 
 **[➡️ View the Live Streamlit App Here!]([https://your-app-url.streamlit.app/](https://virality-predictor-5swhoynzhu78i6xk7qjtmv.streamlit.app/))** 
-*(Note: Please replace this with your actual Streamlit Cloud URL after deployment. The app may take 30-60 seconds to wake up on the first visit.)*
+
 
 ---
 
